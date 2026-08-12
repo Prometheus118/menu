@@ -77,9 +77,9 @@ además de experiencia trabajando con Microsoft Dynamics 365 Business Central, P
 ## 👻 Actividad reciente
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" width="860" height="230" src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" width="860" height="230" src="https://raw.githubusercontent.com/Prometheus118/Prometheus118/output/pacman-contribution-graph.svg">
 </picture>
 
 <br>
